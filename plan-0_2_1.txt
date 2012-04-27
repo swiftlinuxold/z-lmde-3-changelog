@@ -1,0 +1,7 @@
+PLANS FOR VERSION 0.2.1
+
+*  Based on the 201204 MATE/Cinnamon version of LMDE instead of the 201109 GNOME version
+*  Configure the Exit OS, Control Center, and configuration wizards to open in the same part of the screen
+*  Enable the out-of-the-box Internet connection in the live CD 
+*  Provide a lightweight media player (Parole) that plays CDs and DVDs
+
