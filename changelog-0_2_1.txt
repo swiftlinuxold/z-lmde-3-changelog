@@ -1,0 +1,7 @@
+CHANGELOG FOR VERSION 0.2.1
+
+*  Based on the 201204 MATE/Cinnamon version of LMDE instead of the 201109 GNOME version
+
+*  Added KeePass
+
+*  
